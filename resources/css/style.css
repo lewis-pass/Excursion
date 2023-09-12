@@ -4,7 +4,8 @@ body {
   font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
-h1 {
+.main-header {
+  font-weight: normal;
   font-size: 50px;
   color: white;
 }
